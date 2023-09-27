@@ -8,29 +8,100 @@
         "type": "split",
         "children": [
           {
-            "id": "c89d40d2cc0fd71b",
-            "type": "tabs",
+            "id": "e6db4b515b0917e8",
+            "type": "split",
+            "dimension": 32.87536800785084,
             "children": [
               {
-                "id": "211f7e675e73320a",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "GIthub/AndroidStudio/Architecture.canvas",
-                    "viewState": {
-                      "x": 284.20709465742016,
-                      "y": 3165.9013859931283,
-                      "zoom": -1.49432395918492
+                "id": "17075196c99d32f7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2ec719512bab1c3e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "KanbanBoard.md"
+                      }
                     }
                   }
-                }
+                ]
+              },
+              {
+                "id": "95acdc8803f07fb4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "01674549558016f7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "25-09-2023.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7bc95c706d2dfd38",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "adbbdb4bb2f4fd9f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "25-09-2023.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "81f4b4b8413974b0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "83e1f48ae86aaec6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "graph.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "61593230c60a30fa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "20-09-2023.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
               }
-            ]
+            ],
+            "direction": "vertical"
           },
           {
             "id": "e46d3ec29bc1dbc2",
             "type": "tabs",
+            "dimension": 67.12463199214916,
             "children": [
               {
                 "id": "27b7e0e2d1b921f9",
@@ -109,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIthub/AndroidStudio/Architecture.canvas",
+                "file": "25-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIthub/AndroidStudio/Architecture.canvas",
+                "file": "25-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIthub/AndroidStudio/Architecture.canvas"
+                "file": "25-09-2023.md"
               }
             }
           }
@@ -171,11 +242,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "211f7e675e73320a",
+  "active": "2f93aa25ddacb145",
   "lastOpenFiles": [
-    "GIthub/AndroidStudio/Architecture.md",
-    "GIthub/AndroidStudio/Architecture.canvas",
+    "22-09-2023.md",
+    "21-09-2023.md",
+    "20-09-2023.md",
+    "Pasted image 20230921021245.png",
+    "Pasted image 20230921021256.png",
+    "26-09-2023.md",
+    "25-09-2023.md",
+    "KanbanBoard.md",
+    "graph.md",
+    "GIthub/AndroidStudio/Dagger and hilt.md",
+    "GIthub/AndroidStudio/Kotlin function.md",
     "GIthub/AndroidStudio/Kotlin Basic.md",
+    "GIthub/AndroidStudio/Architecture.md",
+    "GIthub/AndroidStudio/library.md",
+    "GIthub/AndroidStudio/toml.md",
+    "GIthub/AndroidStudio/Architecture.canvas",
     "Excalidraw/Drawing 2023-09-20 09.38.28.excalidraw.md",
     "GIthub/Tip/책 추천.md",
     "GIthub/Tip/MarkDown.md",
@@ -183,7 +267,6 @@
     "GIthub/AndroidStudio/책 추찬.md",
     "GIthub/AndroidStudio/ArchitectureMVVM.md",
     "Excalidraw",
-    "KanbanBoard.md",
     "무제 파일.md",
     "GIthub/Tip",
     "GIthub/AndroidStudio",
