@@ -14,3 +14,7 @@
 - [**quadraticBezierTo()**](https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/Path?authuser=1#quadraticBezierTo(kotlin.Float,kotlin.Float,kotlin.Float,kotlin.Float)) — Adds a quadratic bezier segment that curves from the current point to the given point (x2, y2), using the control point (x1, y1).
 - [**lineTo()**](https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/Path?authuser=1#lineTo(kotlin.Float,kotlin.Float)) — Adds a straight line segment from the current point to the given point.
 - [**drawLine()**](https://developer.android.com/reference/kotlin/androidx/compose/ui/graphics/drawscope/CanvasDrawScope#drawLine(androidx.compose.ui.graphics.Brush,androidx.compose.ui.geometry.Offset,androidx.compose.ui.geometry.Offset,kotlin.Float,androidx.compose.ui.graphics.StrokeCap,androidx.compose.ui.graphics.PathEffect,kotlin.Float,androidx.compose.ui.graphics.ColorFilter,androidx.compose.ui.graphics.BlendMode)) — Draws a line between the given points using the given paint.
+
+
+
+# Local Propertie에서 사용

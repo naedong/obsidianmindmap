@@ -8,37 +8,39 @@
         "type": "split",
         "children": [
           {
-            "id": "e6db4b515b0917e8",
+            "id": "3e6a6ad02f54d429",
             "type": "split",
             "dimension": 32.87536800785084,
             "children": [
               {
-                "id": "17075196c99d32f7",
+                "id": "f1e6f81b2dd05e8e",
                 "type": "tabs",
+                "dimension": 28.854625550660796,
                 "children": [
                   {
-                    "id": "2ec719512bab1c3e",
+                    "id": "6afb6865647ed8e2",
                     "type": "leaf",
                     "state": {
                       "type": "kanban",
                       "state": {
-                        "file": "KanbanBoard.md"
+                        "file": "KanbanList/KanbanBoard.md"
                       }
                     }
                   }
                 ]
               },
               {
-                "id": "95acdc8803f07fb4",
+                "id": "f206a3cbe9e026e2",
                 "type": "tabs",
+                "dimension": 34.65491923641703,
                 "children": [
                   {
-                    "id": "01674549558016f7",
+                    "id": "5a545b00c84c7fa7",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "25-09-2023.md",
+                        "file": "17-10-2023.md",
                         "mode": "source",
                         "source": false
                       }
@@ -47,53 +49,48 @@
                 ]
               },
               {
-                "id": "7bc95c706d2dfd38",
+                "id": "511364c383f19b47",
                 "type": "tabs",
+                "dimension": 36.49045521292217,
                 "children": [
                   {
-                    "id": "adbbdb4bb2f4fd9f",
+                    "id": "ab97000fe9335fc6",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "25-09-2023.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "81f4b4b8413974b0",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "83e1f48ae86aaec6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "graph.md",
+                        "file": "16-10-2023.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "61593230c60a30fa",
+                    "id": "a471c886d3e335d2",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "20-09-2023.md",
+                        "file": "GIthub/Basic/Architecter.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "e45ebeca8af52709",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "GIthub/Basic/Architecter.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -164,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96641453c560dae8",
@@ -180,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25-09-2023.md",
+                "file": "GIthub/Basic/Architecter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25-09-2023.md",
+                "file": "GIthub/Basic/Architecter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25-09-2023.md"
+                "file": "GIthub/Basic/Architecter.md"
               }
             }
           }
@@ -228,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,32 +239,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f93aa25ddacb145",
+  "active": "e45ebeca8af52709",
   "lastOpenFiles": [
-    "22-09-2023.md",
-    "21-09-2023.md",
-    "20-09-2023.md",
+    "17-10-2023.md",
+    "GIthub/Basic/Architecter.md",
+    "KanbanList/KanbanBoard.md",
+    "GIthub/SpringCloud/Basic.md",
+    "GIthub/Basic",
+    "GIthub/AndroidStudio/Kotlin Basic.md",
+    "GIthub/SpringCloud",
+    "GIthub/Untitled.md",
+    "GIthub/AndroidStudio/Kotlin Testing.md",
+    "GIthub/AndroidStudio/Kotlin function.md",
+    "Pasted image 20231016100604.png",
+    "16-10-2023.md",
+    "Pasted image 20231016100541.png",
+    "GIthub/Tip/Mark Down.md",
+    "GIthub/Tip/MarkDown.md",
+    "GIthub/Tip/책 추천.md",
+    "GIthub/Tip/Company.md",
+    "GIthub/AndroidStudio/toml.md",
+    "KanbanList/05-10-2023.md",
+    "KanbanList/04-10-2023.md",
+    "KanbanList/20-09-2023.md",
+    "KanbanList/21-09-2023.md",
+    "KanbanList/26-09-2023.md",
+    "KanbanList/25-09-2023.md",
+    "KanbanList/22-09-2023.md",
+    "GIthub/AndroidStudio/Error.md",
+    "GIthub/AndroidStudio/library.md",
+    "GIthub/AndroidStudio/Architecture.md",
+    "GIthub/AndroidStudio/Dagger and hilt.md",
+    "GIthub/AndroidStudio/Architecture.canvas",
+    "da.md",
+    "KanbanList",
     "Pasted image 20230921021245.png",
     "Pasted image 20230921021256.png",
-    "26-09-2023.md",
-    "25-09-2023.md",
-    "KanbanBoard.md",
-    "graph.md",
-    "GIthub/AndroidStudio/Dagger and hilt.md",
-    "GIthub/AndroidStudio/Kotlin function.md",
-    "GIthub/AndroidStudio/Kotlin Basic.md",
-    "GIthub/AndroidStudio/Architecture.md",
-    "GIthub/AndroidStudio/library.md",
-    "GIthub/AndroidStudio/toml.md",
-    "GIthub/AndroidStudio/Architecture.canvas",
-    "Excalidraw/Drawing 2023-09-20 09.38.28.excalidraw.md",
-    "GIthub/Tip/책 추천.md",
-    "GIthub/Tip/MarkDown.md",
-    "GIthub/Tip/Company.md",
-    "GIthub/AndroidStudio/책 추찬.md",
-    "GIthub/AndroidStudio/ArchitectureMVVM.md",
     "Excalidraw",
-    "무제 파일.md",
     "GIthub/Tip",
     "GIthub/AndroidStudio",
     "GIthub"
