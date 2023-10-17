@@ -1,3 +1,15 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=320&section=header&text=NaedongGithub&fontSize=90)
+
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white" />
+</div>
+
+
+---
+
+
 # obsidianmindmap
 
 
