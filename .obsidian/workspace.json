@@ -84,7 +84,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "KanbanList/05-10-2023.md",
+                        "file": "GIthub/SpringCloud/Service.md",
                         "mode": "source",
                         "source": false
                       }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KanbanList/05-10-2023.md",
+                "file": "GIthub/SpringCloud/Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KanbanList/05-10-2023.md",
+                "file": "GIthub/SpringCloud/Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KanbanList/05-10-2023.md"
+                "file": "GIthub/SpringCloud/Service.md"
               }
             }
           }
@@ -253,15 +253,21 @@
   },
   "active": "a471c886d3e335d2",
   "lastOpenFiles": [
-    "KanbanList/20-09-2023.md",
+    "GIthub/SpringCloud/Basic.md",
+    "GIthub/AndroidStudio/library.md",
+    "GIthub/Tip/Mark Down.md",
+    "16-10-2023.md",
+    "17-10-2023.md",
     "KanbanList/21-09-2023.md",
-    "KanbanList/KanbanBoard.md",
     "KanbanList/26-09-2023.md",
+    "Pasted image 20231016100541.png",
     "KanbanList/22-09-2023.md",
+    "KanbanList/05-10-2023.md",
+    "KanbanList/20-09-2023.md",
+    "KanbanList/KanbanBoard.md",
     "GIthub/SpringCloud/Service.md",
     "GIthub/Tip/책 추천.md",
     "GIthub/Tip/MarkDown.md",
-    "GIthub/Tip/Mark Down.md",
     "GIthub/AndroidStudio/Architecture.canvas",
     "GIthub/AndroidStudio/Dagger and hilt.md",
     "GIthub/AndroidStudio/Architecture.md",
@@ -269,21 +275,14 @@
     "GIthub/AndroidStudio/Kotlin Basic.md",
     "GIthub/AndroidStudio/Kotlin Testing.md",
     "GIthub/AndroidStudio/Kotlin function.md",
-    "GIthub/AndroidStudio/library.md",
     "GIthub/Basic/Architecter.md",
-    "GIthub/SpringCloud/Basic.md",
-    "17-10-2023.md",
-    "16-10-2023.md",
     "GIthub/Basic",
     "GIthub/SpringCloud",
     "GIthub/Untitled.md",
     "Pasted image 20231016100604.png",
-    "Pasted image 20231016100541.png",
     "GIthub/Tip/Company.md",
     "GIthub/AndroidStudio/toml.md",
-    "KanbanList/05-10-2023.md",
     "KanbanList/04-10-2023.md",
-    "KanbanList/25-09-2023.md",
     "KanbanList",
     "Pasted image 20230921021245.png",
     "Pasted image 20230921021256.png",
