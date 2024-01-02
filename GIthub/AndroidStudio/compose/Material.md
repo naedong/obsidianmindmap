@@ -1,0 +1,1 @@
+* BottomAppBar 에는 Padding이 들어가 있어 완벽한 Width가 형성되지 않기에 ContentPadding을 0 으로 만들어 준다. 

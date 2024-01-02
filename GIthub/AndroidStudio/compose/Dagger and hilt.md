@@ -63,3 +63,57 @@ Hilt는 다음 구성요소를 제공합니다.
 |`ViewComponent`|`View#super()`|`View` 소멸됨|
 |`ViewWithFragmentComponent`|`View#super()`|`View` 소멸됨|
 |`ServiceComponent`|`Service#onCreate()`|`Service#onDestroy()`|
+
+
+
+# Hilt 적용 순서 
+## 1. Project 단위 build.gradle의 Plugins에 적용 
+
+```kotlin
+buildscript {  
+    dependencies {  
+        classpath(libs.hilt.gradle)  
+    }  
+} 
+
+plugins {  
+    alias(libs.plugins.hiltAndroid) apply false  
+    alias(libs.plugins.kspAndroid) apply false 
+}
+
+```
+
+> 플러그인을 적용 시키지 않아도 작동은 되지만 플러그인을 적용 하면 HIlt에서 생성된 클래스를 수동으로 참조하지 않아도 된다. 
+   아래는 수동 참조 예시이다
+```kotlin 
+@HiltAndroidApp(MultiDexApplication::class)
+class MyApplication : Hilt_MyApplication()
+```
+> 위와 같이 수동으로 참조를 해야 한다.
+
+
+
+## 2. Module 단위 build.gradle 에 plugins , Dependencies에 설정 
+
+```kotlin
+plugins{
+    alias(libs.plugins.hiltAndroid) apply false  
+    alias(libs.plugins.kspAndroid) apply false 
+}
+```
+
+> hilt 설정 시 에러가 날 수 있다. 에러가 날 경우 아래와 같이 Dependencies 에 먼저 import 하고 plugins 에 설정을 한다.  
+```kotlin
+
+dependencies {
+	implementation(libs.hilt)  
+	ksp(libs.hilt.android.compiler)
+}
+
+```
+
+## 3.  Application class 작동 확인 및 사용 
+```kotlin 
+@HiltAndroidApp  
+class HiltTestApplcation : Application()
+```
